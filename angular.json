@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "ecommerce-meang-frontend"
+    }
+  },
+  "defaultProject": "ecommerce-meang-frontend",
+  "cli": {
+    "analytics": false
+  }
 }
